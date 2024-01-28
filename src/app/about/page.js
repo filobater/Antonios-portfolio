@@ -69,7 +69,7 @@ const About = () => {
           data-aos-duration="1000"
           className=" leading-relaxed text-[#dad9d9]"
         >
-          The web is my playground, and Next.js is my rocket ship. As a frontend
+          {`The web is my playground, and Next.js is my rocket ship. As a frontend
           developer, I'm constantly pushing the boundaries of what's possible,
           crafting innovative user interfaces and interactive experiences that
           bring websites to life. I'm a firm believer in the power of code to
@@ -77,7 +77,7 @@ const About = () => {
           leveraging Next.js's cutting-edge features like server-side rendering,
           data fetching, and code-splitting to deliver high-performance,
           SEO-friendly web applications. In my free time, I'm an avid learner,
-          always keeping up with the latest web technologies and frameworks.
+          always keeping up with the latest web technologies and frameworks.`}
         </p>
       </div>
       <div className="work-exp mb-8">

@@ -10,7 +10,7 @@ export const metadata = {
 const Contact = () => {
   return (
     <div className="text-center">
-      <Heading>Have a Project in Mind? Let's Talk!</Heading>
+      <Heading>{`Have a Project in Mind? Let's Talk!`}</Heading>
 
       <div
         className="flex flex-wrap justify-center items-center gap-4 mt-8"
