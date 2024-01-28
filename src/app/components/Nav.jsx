@@ -16,10 +16,7 @@ const Nav = () => {
       item: 'about',
       path: '/about',
     },
-    {
-      item: 'projects',
-      path: '/projects',
-    },
+
     {
       item: 'contact',
       path: '/contact',
@@ -28,7 +25,7 @@ const Nav = () => {
   return (
     <nav className=" flex items-center justify-between mb-32">
       <h1 className="font-semibold capitalize text-lg">
-        <Link href={'/'}>filobater</Link>
+        <Link href={'/'}>Antonious</Link>
       </h1>
       <MobileNav />
       <ul className="md:flex hidden gap-4">

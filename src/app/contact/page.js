@@ -4,7 +4,7 @@ import { MdEmail } from 'react-icons/md';
 import { FaLinkedin } from 'react-icons/fa';
 
 export const metadata = {
-  title: 'Filobater Nader | Contact',
+  title: 'Antonious | Contact',
 };
 
 const Contact = () => {
@@ -19,14 +19,14 @@ const Contact = () => {
       >
         <a
           className=" duration-150 flex items-center justify-center gap-2 bg-white hover:bg-slate-200 text-black rounded-3xl p-2 w-[200px] h-[50px] "
-          href="mailto:filobaternader@proton.me"
+          href="mailto:antoniosamy14@gmail.com"
         >
           <MdEmail />
           Email
         </a>
         <a
           className=" duration-150 flex items-center justify-center gap-2 bg-[#0077B5] hover:bg-[#4e9dc8] text-white rounded-3xl p-2 w-[200px] h-[50px] "
-          href="https://www.linkedin.com/in/filobater-nader-723887231/"
+          href="https://www.linkedin.com/in/antonios-samy-2300aa1a1/"
         >
           <FaLinkedin />
           Linkedin

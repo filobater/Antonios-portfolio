@@ -18,14 +18,14 @@ const Welcome = () => {
       >
         <p className="text-3xl md:text-5xl font-semibold text-center md:text-left lg:w-1/2 md:leading-normal	">
           Hi 👋, My name is
-          <span className="my-name"> Filobater </span>I build things for web
+          <span className="my-name"> Antonious </span>I build things for web
         </p>
       </div>
       <div className="right" data-aos="fade-left" data-aos-duration="800">
         <Image
           className="rounded-full"
-          src={'/filo.jpg'}
-          alt="filobater"
+          src={'/tony.jpg'}
+          alt="tony"
           width={300}
           height={300}
         />

@@ -33,10 +33,7 @@ const MobileNav = () => {
       item: 'about',
       path: '/about',
     },
-    {
-      item: 'projects',
-      path: '/projects',
-    },
+
     {
       item: 'contact',
       path: '/contact',
